@@ -32,6 +32,5 @@ Esxi系統本身的基本設定大致上分為**使用者密碼設定**以及**�
 
 ![](/assets/esxi_installation_28.JPG)
 
-7.
 
 
